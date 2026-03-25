@@ -1,9 +1,16 @@
-🚗 Autonomous Mecanum Robot with LIDAR & Computer Vision
+# 🚗 Autonomous Mecanum Robot with LIDAR & Computer Vision
+
 A 4-wheeled omnidirectional autonomous robot that integrates LIDAR sensing and camera-based traffic sign recognition for intelligent navigation and obstacle avoidance.
-📌 Overview
+
+---
+
+## 📌 Overview
+
 This project addresses a core challenge in autonomous vehicle systems: **no single sensor is sufficient on its own.**
+
 - **LIDAR** is accurate for 3D mapping and obstacle detection — but lacks semantic understanding.
 - **Camera + CV** can recognize traffic signs — but is sensitive to lighting and environment.
+
 By fusing both, this robot can simultaneously **avoid obstacles** and **obey traffic rules** in real time.
 
 ---
