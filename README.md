@@ -1,0 +1,2 @@
+# Autonomous-Four-Wheel-Omnidirectional-Robot-Using-LiDAR-and-Computer-Vision
+The project aims to design and develop an intelligent four-wheel omnidirectional robot integrated with LiDAR sensors and computer vision, capable of autonomous navigation, obstacle avoidance, and traffic sign recognition. The system leverages AI technologies to enhance automation and intelligence in mobile robot control.
