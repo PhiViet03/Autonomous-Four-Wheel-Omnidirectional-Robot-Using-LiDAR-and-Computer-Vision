@@ -296,4 +296,4 @@ except KeyboardInterrupt:
     stop_all()
     cap.release()
     lgpio.gpiochip_close(chip)
-    termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)          #Test né
+    termios.tcsetattr(fd, termios.TCSADRAIN, old_settings) 

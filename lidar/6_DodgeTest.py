@@ -78,8 +78,8 @@ class PID:
 
 wheel_pi = [WheelPI(0.4, 2.0, 60) for _ in range(4)]
 heading_pid = PID(kp=2.5, ki=0.0, kd=0.15, limit=0.5)
-WHEEL_GAIN_POS = [1.0, 1.0, 1.0, 1.0]   # bánh quay + (CW)
-WHEEL_GAIN_NEG = [1.0, 1.0, 1.0, 1.0] # bánh quay - (CCW)
+WHEEL_GAIN_POS = [1.0, 1.0, 1.0, 1.0] 
+WHEEL_GAIN_NEG = [1.0, 1.0, 1.0, 1.0]
 
 
 # ================= GPIO INIT =================
